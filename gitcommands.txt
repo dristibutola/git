@@ -2,3 +2,4 @@
 #git add "*.txt"        = adds all txt files in the repository
 #git add *.txt          = adds all txt files in the current 
                           directory inside the repository
+#git diff               = shows unstaged differences since last commit
