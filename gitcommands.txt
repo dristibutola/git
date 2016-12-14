@@ -4,3 +4,4 @@
                           directory inside the repository
 #git diff               = shows unstaged differences since last commit
 #git add \*.txt         = same as git add "*.txt"
+#git filename           = after changes for final commit
