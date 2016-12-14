@@ -1,3 +1,4 @@
 #git add .              = adds all unstaged in the repository
 #git add "*.txt"        = adds all txt files in the repository
-
+#git add *.txt          = adds all txt files in the current 
+                          directory inside the repository
