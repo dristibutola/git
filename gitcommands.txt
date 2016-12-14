@@ -1,0 +1,2 @@
+#git add . = adds all unstaged in the repository
+
