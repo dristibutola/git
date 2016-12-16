@@ -11,4 +11,5 @@
                                 updates into your branch . 
 git fetch upstream            =    to get code 
 git merge upstream/master     = to merge the changes that took place in original project into my cloned repository
- 
+git branch branchname         = to make a branch
+git checkout branchname       =  to enter a branch 
