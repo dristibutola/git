@@ -29,3 +29,6 @@ pick df94881 Allow install to SD
 squash a7323e5 README Junkyism
 squash 3ead26f rm classpath from git
 
+to pull all changes from remote repository     = git pull --all
+to delete a  branch  locally                   =  git branch -d branchname
+to delete a branch remotely                    =  git push origin delete -- branchname
